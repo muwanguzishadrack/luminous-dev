@@ -1,0 +1,6 @@
+import{E as n,I as c}from"./index-748fa515.js";import{c as l}from"./utils-5c9d1106.js";import{c as d}from"./createLucideIcon-faa40dd3.js";import{D as i,o as u,e as p,f as s,J as f,h as t,u as e,M as m}from"./app-d65cc6ad.js";/**
+ * @license lucide-vue-next v0.474.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const g=d("ChevronDownIcon",[["path",{d:"m6 9 6 6 6-6",key:"qrunsl"}]]),_=i({__name:"SelectTrigger",props:{disabled:{type:Boolean},asChild:{type:Boolean},as:{},class:{default:""},invalid:{type:Boolean,default:!1}},setup(a){const o=a;return(r,h)=>(u(),p(e(c),m(o,{class:[e(l)("flex h-10 w-full items-center justify-between rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background placeholder:text-muted-foreground focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50 whitespace-nowrap [&>span]:truncate [&>span]:min-w-0",o.class),o.invalid?"!ring-destructive ring-2 placeholder:!text-destructive":""]}),{default:s(()=>[f(r.$slots,"default"),t(e(n),{"as-child":""},{default:s(()=>[t(e(g),{class:"w-4 h-4 opacity-50"})]),_:1})]),_:3},16,["class"]))}});export{_ as default};
